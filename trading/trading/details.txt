@@ -1,0 +1,7 @@
+Raspberry pi login:
+
+hostname: raspberrypi
+pw: traderai
+
+email: tradeserver21@gmail.com
+PW: fhsdDpoif2ah03!

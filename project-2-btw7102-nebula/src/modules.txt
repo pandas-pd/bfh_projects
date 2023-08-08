@@ -1,0 +1,7 @@
+pip install / module versions
+
+pygame==1.9.6
+cx-Freeze==6.1
+numpy==1.17.3
+mutagen==1.44.0
+neat-python==0.92

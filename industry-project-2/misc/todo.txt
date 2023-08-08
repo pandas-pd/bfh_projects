@@ -1,0 +1,18 @@
+ToDo:
+- Further explore the features
+- Create higher data resolution
+- How does the Polar Vortex get used?
+
+Improvment:
+- Algos
+- More Data
+- Features
+
+- Literature
+- More data
+- 
+
+Create Reasoning and Steps:
+Next Meeting: 03.05,2023, start: 11:30
+
+Gas prices
