@@ -1,4 +1,6 @@
-# Bachelor thesis
+# Bachelor thesis pre project
+Contents of the pre-project to my bachelor thesis. See paper for additionalo information.
+
 ## Enviroment, needed pakcages
 - sklearn
 - pandas
