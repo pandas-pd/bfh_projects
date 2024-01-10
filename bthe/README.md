@@ -1,29 +1,12 @@
 # BTHE - Bachelor thesis
-
-## Roadmap / Meetings
-- 2023-02-27 16:30, Kick-off meeting
-- 2023-02-28 23:59, hand-in Project disposition
-- 2023-04-01, 23:59, hand-in industry project 2
+This Repo contains the JupyterNotebooks and thesis paper of my bachelor thesis.
 
 ## Links and data sources
 - Weather data at: https://cds.climate.copernicus.eu/#!/home
 - Tutorial video: https://www.youtube.com/watch?v=AXG97K6NYD8
 - ENSO: https://www.climate.gov/news-features/blogs/enso/what-el-ni%C3%B1o%E2%80%93southern-oscillation-enso-nutshell
 
-## ToDo
-1. Get to know data source by registering at and exploring https://cds.climate.copernicus.eu/
-Introduction video, e.g., https://www.youtube.com/watch?v=AXG97K6NYD8
-2. To forecast the heating demand, the single most important variable is the outside air temperature.
-- Download ERA5 reanalyis, variable name = „2m temperature“
-- Compile “climatology” benchmark: monthly mean and std of 2m air temperature of last 30 years in Switzerland
-- Forecast anomalies in monthly mean 2m air temperatures (Y) using El Nino Southern Oscillation (ENSO) index (X1)
-    - Download ENSO index (or compute it yourself ;-))
-    - Add Madden Julian Oscillation (MJO) index as a second feature (X2) in ML model
-    - Train and test an ML model, using the features X1 and possibly X2 to forecast Y of next months 
-- Compare the forecast skill of the model (RMSE in 2m temp anomalies) with the “climatology” benchmark
-3. Compare the forecast skill of the model with the forecast skill of operational subseasonal forecast products from operational centers like UKMO, NCEP, CMA— similar to https://journals.ametsoc.org/view/journals/wefo/36/1/waf-d-20-0096.1.xml (but for Switzerland)
-
-## Datasets and Sources
+## Datasets and Sources (Notes)
 - Copernicus climat data:
     - Variouse:
         - https://cds.climate.copernicus.eu/cdsapp#!/dataset/ecv-for-climate-change?tab=overview
