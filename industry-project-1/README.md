@@ -1,3 +1,6 @@
+# Industry Project 1
+See paper for further detail on the subject and goal
+
 ## Steps
 0. Data Exploration
     1. Looking at the scada data
