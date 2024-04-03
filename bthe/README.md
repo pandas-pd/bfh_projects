@@ -1,4 +1,4 @@
-# BTHE - Bachelor thesis
+# Industry project 2
 This Repo contains the JupyterNotebooks and thesis paper of my bachelor thesis.
 
 ## Links and data sources
