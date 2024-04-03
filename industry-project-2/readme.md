@@ -1,4 +1,4 @@
-# Bachelor thesis pre project
+# Bachelor thesis project
 Contents of the pre-project to my bachelor thesis. See paper for additionalo information.
 
 ## Enviroment, needed libs
