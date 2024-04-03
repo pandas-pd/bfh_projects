@@ -9,8 +9,8 @@ class New_mail():
         If you like to use your own account, make sure to enable "allow unsecure app" in your gmail account settings.
         """
 
-        self.gmail_user = 'tradeserver21@gmail.com'
-        self.gmail_password = 'fhsdDpoif2ah03!'
+        self.gmail_user = 'email'
+        self.gmail_password = 'password'
 
         try:
             self.server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
