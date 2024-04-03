@@ -1,7 +1,7 @@
 # Bachelor thesis pre project
 Contents of the pre-project to my bachelor thesis. See paper for additionalo information.
 
-## Enviroment, needed pakcages
+## Enviroment, needed libs
 - sklearn
 - pandas
 - numpy
