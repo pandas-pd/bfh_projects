@@ -1,5 +1,4 @@
 # Industry project 2
-This Repo contains the JupyterNotebooks and thesis paper of my bachelor thesis.
 
 ## Links and data sources
 - Weather data at: https://cds.climate.copernicus.eu/#!/home
